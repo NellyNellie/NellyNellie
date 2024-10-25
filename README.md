@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming learning and becoming a great developer
 - 🌱 I’m currently learning Web Application Development II, Advanced Programming,
 - 💞️ I’m looking to collaborate on Web and C/C++ projects
-- 📫 How to reach me: 0713367390
+- 📫 How to reach me: 0105367390
 - 😄 Pronouns: 
 - ⚡ Fun fact: Life is good.
 
